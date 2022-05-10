@@ -10,7 +10,7 @@
   <img align="center" alt="Ale-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />   
   <img align="center" alt="Ale-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ale-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />       
-   <img align="right"  alt= "Programar" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" > 
+   <img align="right"  alt= "Programar" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" > 
 </div>
   
   ##
@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/alexandre-freire-ropero-júnior-812089181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   ![Snake animation](https://github.com/Alejunior32/Alejunior32/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
 
