@@ -20,6 +20,8 @@
   
   ![Snake animation](https://github.com/Alejunior32/Alejunior32/blob/output/github-contribution-grid-snake.svg)
   
+  "Falar é fácil, me mostre o código."
+Linus Torvalds
 </div>
   
 
